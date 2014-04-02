@@ -6,9 +6,9 @@
  * Copyright (c) 2014 by Hsiaoming Yang.
  */
 
-var classes = require('classes');
-var events = require('event');
-var emitter = require('emitter');
+var classes = require('component-classes');
+var events = require('component-event');
+var emitter = require('component-emitter');
 
 /**
  * Switch Object

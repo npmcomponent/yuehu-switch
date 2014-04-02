@@ -1,0 +1,21 @@
+{
+  "name": "yuehu-switch",
+  "description": "A switch UI for checkbox.",
+  "version": "0.1.0",
+  "keywords": [
+    "ui",
+    "toggle",
+    "switch",
+    "checkbox"
+  ],
+  "main": "index.js",
+  "styles": [
+    "switch.css"
+  ],
+  "dependencies": {
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}
